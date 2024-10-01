@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\PPIDSUMUT\resources\views/berita-sumut.blade.php ENDPATH**/ ?>
